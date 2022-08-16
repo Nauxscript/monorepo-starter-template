@@ -1,6 +1,7 @@
 import './style.css'
 import typescriptLogo from './typescript.svg'
 import { setupCounter } from './counter'
+import { sayHelloWorld } from '@mst/pkg1'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
@@ -21,3 +22,5 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 `
 
 setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
+
+sayHelloWorld('nauxscript')
