@@ -9,4 +9,5 @@ monorepo-starter-template
 ## To do ...
 
   - ⌛ Eslint
-  - 🐶 husky
+  - 🐶 Husky
+  - ⚙️ Vitest
