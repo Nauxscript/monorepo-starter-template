@@ -1,4 +1,12 @@
 # monorepo-starter-template
 monorepo-starter-template
 
-TODO...
+## Features
+
+  - ⚡ Vite 3, pnpm, ESBuild
+  - 🦾 TypeScript, of course
+
+## To do ...
+
+  - ⌛ Eslint
+  - 🐶 husky
